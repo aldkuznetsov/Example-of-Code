@@ -13,5 +13,3 @@
   1) загрузите оба файла ("Example_Code_Game_Price_Prediction.ipynb" и "steam_games_cleaned.csv");
   2) поместите эти файлы в одну папку;
   3) откройте файл с кодом "Example_Code_Game_Price_Prediction.ipynb" и нажмите "Run All".
-
-Если у вас есть вопросы, вы можете направить их мне на почту aldkuznetsov@nes.ru
